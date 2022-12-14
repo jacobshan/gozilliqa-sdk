@@ -17,7 +17,7 @@
 package crypto
 
 import (
-	util2 "github.com/Zilliqa/gozilliqa-sdk/util"
+	util2 "github.com/jacobshan/gozilliqa-sdk/util"
 	"github.com/stretchr/testify/assert"
 	"strings"
 	"testing"

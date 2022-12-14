@@ -18,7 +18,7 @@
 package polynetwork
 
 import (
-	"github.com/Zilliqa/gozilliqa-sdk/util"
+	"github.com/jacobshan/gozilliqa-sdk/util"
 	"strings"
 )
 

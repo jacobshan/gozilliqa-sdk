@@ -4,10 +4,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Zilliqa/gozilliqa-sdk/core"
-	"github.com/Zilliqa/gozilliqa-sdk/mpt"
-	"github.com/Zilliqa/gozilliqa-sdk/provider"
-	"github.com/Zilliqa/gozilliqa-sdk/util"
+	"github.com/jacobshan/gozilliqa-sdk/core"
+	"github.com/jacobshan/gozilliqa-sdk/mpt"
+	"github.com/jacobshan/gozilliqa-sdk/provider"
+	"github.com/jacobshan/gozilliqa-sdk/util"
 )
 
 type StateProver struct {

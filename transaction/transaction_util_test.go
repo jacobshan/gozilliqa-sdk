@@ -17,7 +17,7 @@
 package transaction
 
 import (
-	"github.com/Zilliqa/gozilliqa-sdk/util"
+	"github.com/jacobshan/gozilliqa-sdk/util"
 	"github.com/stretchr/testify/assert"
 	"strings"
 	"testing"
